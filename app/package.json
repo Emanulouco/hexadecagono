@@ -1,0 +1,17 @@
+{
+  "name": "web2",
+  "version": "1.0.0",
+  "description": "Terrenos hexadecagonois",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "hexadecagono"
+  ],
+  "author": "Emanuel Gleydson Melo Lopes",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
