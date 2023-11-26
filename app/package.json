@@ -12,7 +12,6 @@
   "author": "Emanuel Gleydson Melo Lopes",
   "license": "Apache-2.0",
   "dependencies": {
-    "ejs": "^3.1.9",
     "nodemon": "^3.0.1"
   }
 }
